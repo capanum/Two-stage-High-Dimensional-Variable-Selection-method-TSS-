@@ -1,0 +1,1 @@
+This code implements the two-stage high-dimensional variable selection method (TSS) for generalized linear models. The user needs to supply the high-dimensional matrix of predictors x, the outcome y, the number of subsamples used in each stage, the cutoff used for the selection threshold in Stage 1 and the distribution of the outcome. 
